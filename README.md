@@ -1,4 +1,4 @@
-📋 Descripción
+📋 Descripción:
 
 Esta actividad es una práctica de condicionales en Python. El programa permite registrar hasta 5 estudiantes, capturar sus notas y calcular su promedio, determinando la situación académica de cada uno:
 
@@ -10,7 +10,7 @@ Reprobado: promedio < 2.5
 
 El proyecto sirve como base para entender la estructura condicional, que luego será útil al aprender bucles y otras estructuras de control.
 
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
 
 Registro de hasta 5 estudiantes.
 
@@ -22,9 +22,9 @@ Determinación de la situación académica basada en el promedio.
 
 Impresión final de todos los estudiantes con sus notas, promedio y situación.
 
-🚀 Cómo usarlo
+🚀 Cómo usarlo:
 
-Ejecutar el script actividad2.py con Python 3.
+Ejecutar el script actividad2.py con Python.
 
 Ingresar la cantidad de estudiantes (máximo 5).
 
@@ -32,7 +32,7 @@ Ingresar los nombres y notas de cada estudiante cuando se solicite.
 
 Visualizar el resultado final impreso en consola.
 
-📌 Objetivo de la práctica
+📌 Objetivo de la práctica:
 
 Comprender el uso de condicionales (if, elif, else) en Python.
 
@@ -40,7 +40,7 @@ Aplicar estructuras condicionales a un problema real de cálculo y clasificació
 
 Preparar la transición hacia el uso de bucles para manejar múltiples datos de manera más eficiente.
 
-📝 Notas
+📝 Notas:
 
 Actualmente el programa permite máximo 5 estudiantes.
 

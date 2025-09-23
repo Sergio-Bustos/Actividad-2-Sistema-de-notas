@@ -1,6 +1,5 @@
 # Actividad 2 
 
-# Integrantes: Tamayo Juan Alejandro,Sergio Andres Bustos,Jojoa Sebastian Meneses,Javier Steven Solis Ruiz
 
 # Pedir cantidad
 

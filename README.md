@@ -8,7 +8,7 @@ En recuperación: promedio entre 2.5 y 3.49
 
 Reprobado: promedio < 2.5
 
-El proyecto sirve como base para entender la estructura condicional, que luego será útil al aprender bucles y otras estructuras de control.
+Este proyecto grupal sirve como base para entender la estructura condicional, que luego será útil al aprender bucles y otras estructuras de control.
 
 ⚙️ Funcionalidades:
 
